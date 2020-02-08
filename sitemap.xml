@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://panrh.me/link/index.html</loc>
+    
+    <lastmod>2020-02-08T15:48:00.099Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://panrh.me/categories/index.html</loc>
+    
+    <lastmod>2020-02-08T15:38:46.998Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://panrh.me/tags/index.html</loc>
+    
+    <lastmod>2020-02-08T15:38:21.011Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://panrh.me/about/index.html</loc>
+    
+    <lastmod>2020-02-08T15:05:45.556Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://panrh.me/2020/02/07/linux%E6%90%AD%E5%BB%BA%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/</loc>
     
     <lastmod>2020-02-06T18:55:30.046Z</lastmod>
@@ -44,37 +72,9 @@
   </url>
   
   <url>
-    <loc>http://panrh.me/about/index.html</loc>
-    
-    <lastmod>2020-01-27T17:54:59.290Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://panrh.me/Essay/index.html</loc>
     
     <lastmod>2020-01-27T13:12:48.049Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://panrh.me/link/index.html</loc>
-    
-    <lastmod>2020-01-26T16:16:44.737Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://panrh.me/categories/index.html</loc>
-    
-    <lastmod>2020-01-26T15:36:49.539Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://panrh.me/tags/index.html</loc>
-    
-    <lastmod>2020-01-26T15:35:56.751Z</lastmod>
     
   </url>
   
