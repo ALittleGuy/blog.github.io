@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://panrh.me/2020/02/07/set_linux_deep_learning/</loc>
+    
+    <lastmod>2020-02-13T16:27:25.815Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://panrh.me/2020/02/13/win10-install/</loc>
     
     <lastmod>2020-02-13T16:18:50.664Z</lastmod>
@@ -37,21 +44,14 @@
   </url>
   
   <url>
-    <loc>http://panrh.me/2020/02/07/linux%E6%90%AD%E5%BB%BA%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/</loc>
-    
-    <lastmod>2020-02-06T18:55:30.046Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://panrh.me/2020/02/06/ArchLinux-%E6%A1%8C%E9%9D%A2%E5%AE%89%E8%A3%85/</loc>
+    <loc>http://panrh.me/2020/02/06/ArchLinux_gui_insall/</loc>
     
     <lastmod>2020-02-06T09:43:33.668Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://panrh.me/2020/01/28/ArchLinux%E5%AE%89%E8%A3%85/</loc>
+    <loc>http://panrh.me/2020/01/28/ArchLinux_base_install/</loc>
     
     <lastmod>2020-02-05T16:36:36.970Z</lastmod>
     
