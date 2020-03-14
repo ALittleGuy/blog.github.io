@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://panrh.me/2020/03/14/wordpress-1/</loc>
+    
+    <lastmod>2020-03-14T16:51:21.119Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://panrh.me/2020/02/07/set_linux_deep_learning/</loc>
+    
+    <lastmod>2020-03-14T16:25:04.035Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://panrh.me/2020/01/26/hello-world/</loc>
+    
+    <lastmod>2020-03-14T16:12:45.441Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://panrh.me/2020/02/13/win10-install/</loc>
+    
+    <lastmod>2020-03-14T15:14:52.002Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://panrh.me/2020/01/28/ArchLinux_base_install/</loc>
     
     <lastmod>2020-02-25T07:53:00.216Z</lastmod>
@@ -12,20 +40,6 @@
     <loc>http://panrh.me/music/index.html</loc>
     
     <lastmod>2020-02-24T12:20:34.920Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://panrh.me/2020/02/07/set_linux_deep_learning/</loc>
-    
-    <lastmod>2020-02-13T16:27:25.815Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://panrh.me/2020/02/13/win10-install/</loc>
-    
-    <lastmod>2020-02-13T16:18:50.664Z</lastmod>
     
   </url>
   
@@ -61,13 +75,6 @@
     <loc>http://panrh.me/2020/02/06/ArchLinux_gui_insall/</loc>
     
     <lastmod>2020-02-06T09:43:33.668Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://panrh.me/2020/01/26/hello-world/</loc>
-    
-    <lastmod>2020-01-28T17:35:05.136Z</lastmod>
     
   </url>
   
